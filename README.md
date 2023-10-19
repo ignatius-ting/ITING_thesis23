@@ -1,6 +1,6 @@
 # Bridging the Semantic Gap: A Novel Biomedical Graph-Text Dataset and Its applications
 
-The final graph-text dataset can be found in **graph_text_dataset.csv** in the home directory.
+The final graph-text dataset can be found at https://drive.google.com/drive/folders/1evMLHJSX2DOUNTrhCwtwq3mQMQpu5h4q?usp=share_link
 The all unique relations can be found in **relations.txt** in the home directory.
 
 The analysis folder contains notebooks used for processing data and retrieval pipelines.
